@@ -196,8 +196,8 @@ You can now register patients, add doctors, schedule appointments, and access al
 
 Meet the dedicated individuals behind this project:
 
-| Name           | Role   | github link       |
-|----------------|--------|
+| Name           | Role   | github link             |
+|----------------|--------|-------------------------|
 | Vidhu Kaushik  | Leader | https://github.com/Vi-ic1101 |
 | Abhinav Singh  | Member |https://github.com/abhi2004-design |
 | Jigyasha       | Member | https://github.com/jigyasha545 |
